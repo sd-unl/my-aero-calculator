@@ -1,0 +1,12 @@
+{
+  "name": "aero-calculator",
+  "version": "1.0.0",
+  "description": "Windows Aero style calculator",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
